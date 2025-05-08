@@ -1,12 +1,46 @@
-# React + Vite
+# 🌟 Site Web - Enactus FSBM 🌟
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ce projet est une page d’accueil interactive et responsive du **club Enactus FSBM**, réalisée dans le cadre d’un projet individuel en module JavaScript.
 
-Currently, two official plugins are available:
+## 🔍 Présentation du club :
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> **Enactus = Entrepreneurial Action for Us All**
 
-## Expanding the ESLint configuration
+Fondée en mars 2014, l’équipe Enactus FSBM développe chaque année des projets à fort impact social et économique. Le club regroupe 50 à 100 membres actifs et a atteint les demi-finales nationales en 2023-2024, se classant parmi les 12 meilleures équipes du Maroc.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies utilisées :
+
+- ⚛️ React  
+- ⚡ Vite  
+- 💨 Tailwind CSS  
+- 🧭 React Router DOM  
+- 🐙 Git + GitHub  
+
+## 💡 Fonctionnalités du site :
+
+- Navbar avec ancrage vers les sections internes  
+- Accueil avec message d’introduction et slogan  
+- Description + Objectifs du club  
+- Vidéo intégrée  
+- Cartes des membres du bureau (4 par ligne)  
+- Cartes des événements (2 par ligne, dernier au centre)  
+- Bouton interactif "Rejoindre le club"  
+- Footer avec contacts  
+
+## 🚀 Lancer le projet en local :
+
+git clone https://github.com/TON-NOM-UTILISATEUR/enactus-fsbm.git
+cd enactus-fsbm
+npm install
+npm run dev
+
+## 👤 Réalisé par :
+
+Ce projet a été réalisé par **Meryem Zarouki**, étudiante à la **Faculté des Sciences Ben M'Sick**  
+dans le cadre du module **JavaScript** – projet individuel 2024-2025.
+
+## 📌 Remarques
+
+- La vidéo a été compressée pour respecter les limitations de GitHub  
+- Le site est statique et ne nécessite pas de backend  
+- Ce projet est versionné sur GitHub et respecte les consignes du cahier des charges
