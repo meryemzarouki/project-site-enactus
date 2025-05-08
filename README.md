@@ -2,6 +2,11 @@
 
 Ce projet est une page d’accueil interactive et responsive du **club Enactus FSBM**, réalisée dans le cadre d’un projet individuel en module JavaScript.
 
+## 👤 Réalisé par :
+
+Ce projet a été réalisé par **Meryem Zarouki**, étudiante MIP-S4 à la **Faculté des Sciences Ben M'Sick**  
+dans le cadre du module **JavaScript** – projet individuel 2024-2025.
+
 ## 🔍 Présentation du club :
 
 > **Enactus = Entrepreneurial Action for Us All**
@@ -12,8 +17,7 @@ Fondée en mars 2014, l’équipe Enactus FSBM développe chaque année des proj
 
 - ⚛️ React  
 - ⚡ Vite  
-- 💨 Tailwind CSS  
-- 🧭 React Router DOM  
+- 💨 Tailwind CSS 
 - 🐙 Git + GitHub  
 
 ## 💡 Fonctionnalités du site :
@@ -22,22 +26,21 @@ Fondée en mars 2014, l’équipe Enactus FSBM développe chaque année des proj
 - Accueil avec message d’introduction et slogan  
 - Description + Objectifs du club  
 - Vidéo intégrée  
-- Cartes des membres du bureau (4 par ligne)  
-- Cartes des événements (2 par ligne, dernier au centre)  
+- Cartes des membres du bureau  
+- Cartes des événements  
 - Bouton interactif "Rejoindre le club"  
 - Footer avec contacts  
 
 ## 🚀 Lancer le projet en local :
 
-git clone https://github.com/TON-NOM-UTILISATEUR/enactus-fsbm.git
-cd enactus-fsbm
+### Cloner le dépôt
+git clone https://github.com/meryemzarouki/project-site-enactus.git
+
+### Installer les dépendances
 npm install
+
+### Démarrer le serveur de développement
 npm run dev
-
-## 👤 Réalisé par :
-
-Ce projet a été réalisé par **Meryem Zarouki**, étudiante à la **Faculté des Sciences Ben M'Sick**  
-dans le cadre du module **JavaScript** – projet individuel 2024-2025.
 
 ## 📌 Remarques
 
