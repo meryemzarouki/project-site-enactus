@@ -18,7 +18,7 @@ const Navbar = () => {
           <div className="flex flex-wrap justify-center gap-4 mt-2 md:mt-0">
             {links.map((link) => (
               <a
-                key={link.name} href={link.href} className="text-white text-lg font-bold hover:text-orange-600 transition duration-200">
+                key={link.name} href={link.href} className="text-white text-lg font-bold hover:text-yellow-600 transition duration-200">
                   {link.name}
               </a>
                ))}

@@ -96,7 +96,7 @@ export default function Accueil() {
       </section>
       <section id="contact" className="text-center">
         <button
-          onClick={()=>alert("Merci de vouloir nous rejoindre")}
+          onClick={()=>alert("Merci de vouloir nous rejoindre 🌞")}
           className="bg-yellow-500 text-white text-xl font-bold py-4 px-10 rounded-full hover:bg-yellow-600 transition">
           Rejoindre le club
         </button>
